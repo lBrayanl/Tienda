@@ -2,7 +2,8 @@
 <body>
 
 <div id="container">
-	 <h1>Hola Mundo vía CodeIgniter</h1>
+	 <h1>Proyecto web</h1>
+	 <p>Proyecto para la clase lenguaje de programacion 1</p>
 </div>
 
 </body>
